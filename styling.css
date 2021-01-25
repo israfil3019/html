@@ -1,0 +1,56 @@
+body{
+    background-color: black;
+    color: white;   
+    width:80%;
+    margin:auto;
+    height:700px;
+}
+#main_header {
+    font-size: 45px; 
+    text-align:center;
+    font-family: 'Lobster', cursive;
+    
+}
+#link{
+    color: red;
+    text-align: end;
+
+}
+
+#production_head{
+    font-family: 'Lobster', cursive; 
+    font-size:30px;
+    
+}
+#main_img{
+    margin: auto;
+    width: 500px;
+    border-radius:20px;
+    text-align: center;
+   
+}
+#main_img img{
+    width: 350px;
+    border-radius:20px
+    
+}
+p{
+    font-size: 23px;
+    margin-top: 3em;
+    text-align:center;
+    font-family: 'Times New Roman', Times, serif;
+  }
+#production_list {
+    font-family: 'Times New Roman', Times, serif; 
+    
+  }
+li{
+    font-size: 23px;
+    line-height: 1.8;
+}
+#footer a{
+    font-size: 25px;
+    text-decoration:none;
+    color: red;
+    
+}
